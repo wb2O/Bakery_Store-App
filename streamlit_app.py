@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import matplotlib.pylab as plt
+import matplotlib.pyplot as plt
 from urllib.error import URLError
 
 # load date function
